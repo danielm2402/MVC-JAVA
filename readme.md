@@ -1,6 +1,6 @@
-# [Taller MVC](https://github.com/danielm2402/MVC-JAVA)
+# [Basic example MVC](https://github.com/danielm2402/MVC-JAVA)
 
-Taller presentado en el Laboratorio De Ingeniería de Software II 
+Pequeño ejemplo de la microarquitectura MVC en JAVA
 
 ## Características
 
